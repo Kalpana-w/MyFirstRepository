@@ -1,2 +1,2 @@
 # MyFirstRepository
-Is my first repository
+It's my first repository
