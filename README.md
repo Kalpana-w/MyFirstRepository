@@ -1,4 +1,6 @@
 # MyFirstRepository
 It's my first repository
 <br>
-Owner-Kalpana
+Auther - Kalpana
+Beginner level practice
+Learning Git & GitHub basics
