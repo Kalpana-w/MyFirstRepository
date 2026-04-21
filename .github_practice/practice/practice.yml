@@ -1,5 +1,5 @@
 students:
-  - name: ABC
+    name: ABC
     age: 15
     subjects:
       - Maths
@@ -8,7 +8,7 @@ students:
       Maths: 80
       Science: 90
 
-  - name: XYZ
+    name: XYZ
     age: 16
     subjects:
       - Maths
