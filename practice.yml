@@ -1,17 +1,24 @@
-students:
-  - name: ABC
-    age: 15
-    subjects:
-      - Maths
-      - Science
-    marks:
-      Maths: 80
-      Science: 90
-  - name: XYZ
-    age: 16
-    subjects:
-      - Maths
-      - Science
-    marks:
-      Maths: 88
-      Science: 99
+platform: Online Course
+
+courses:
+  - course_name: AZ-900
+    instructor: X
+    price: 3500
+    students:
+      - name: A
+        progress: 80%
+      - name: B
+        progress: 90%
+      - name: C
+        progress: 50%
+
+  - course_name: AZ-104
+    instructor: Y
+    price: 4500
+    students:
+      - name: A
+        progress: 80%
+      - name: B
+        progress: 90%
+      - name: C
+        progress: 50%
