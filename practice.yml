@@ -5,7 +5,7 @@ courses:
     instructor: X
     price: 3500
     students:
-      - name: A
+      - name: 
         progress: 80%
       - name: B
         progress: 90%
